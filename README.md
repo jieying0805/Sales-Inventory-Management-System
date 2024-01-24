@@ -8,14 +8,14 @@ How to run Inventory-Management-System Project
 7. Run the script http://localhost/Inventory-Management-System
 
 Credential for admin panel
-Username: liana
-Password: liana
+1. Username: liana
+2. Password: liana
 
 System features:
-Authentication for admin
-Key metrics and data analysis
-Customer Information Management (Add, Edit, Delete)
-Product Information Management (Add, Edit, Delete)
-Agent & Comission Payment Management (Add, Edit, Delete)
-Inventory & Order Management (Add, Edit, Delete)
-Generate Report (Gross Profit, Customer, Product, Agent Performance)
+1. Authentication for admin
+2. Key metrics and data analysis
+3. Customer Information Management (Add, Edit, Delete)
+4. Product Information Management (Add, Edit, Delete)
+5. Agent & Comission Payment Management (Add, Edit, Delete)
+6. Inventory & Order Management (Add, Edit, Delete)
+7. Generate Report (Gross Profit, Customer, Product, Agent Performance)
