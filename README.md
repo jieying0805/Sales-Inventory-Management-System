@@ -1,4 +1,4 @@
-How to run Sales-Inventory-Management-System Project
+### How to run Sales-Inventory-Management-System Project
 1. Download the zip file
 2. Extract the file and copy sales-inventory-management-system-main folder
 3. Paste inside root director: xampp/htdocs
@@ -7,11 +7,11 @@ How to run Sales-Inventory-Management-System Project
 6. Import la9.sql file (given inside the zip package in database file folder)
 7. Run the script in browser: http://localhost/sales-inventory-management-system-main
 
-Credential for admin panel
+### Credential for admin panel
 1. Username: liana
 2. Password: liana
 
-System features:
+### System features:
 1. Authentication for admin
 2. Key metrics and data analysis
 3. Customer Information Management (Add, Edit, Delete)
@@ -20,7 +20,7 @@ System features:
 6. Inventory & Order Management (Add, Edit, Delete)
 7. Generate Report (Gross Profit, Customer, Product, Agent Performance)
 
-
+### Screenshot
 ![image](https://github.com/jieying0805/sales-inventory-management-system/assets/157407542/bb16fa6f-b06c-47ce-948b-01f038590bdc)
 ![image](https://github.com/jieying0805/sales-inventory-management-system/assets/157407542/680de47d-bb5b-421f-83ce-6d3d9ec1b956)
 ![image](https://github.com/jieying0805/sales-inventory-management-system/assets/157407542/44f001c1-897b-4911-8dae-c25d93157484)
